@@ -62,7 +62,7 @@ export const server = () => {
 
   gulp.watch('./src/**/*.html', html);
   gulp.watch(prepros ? './src/scss/**/*.scss' : './src/css/**/*.css', style);
-  gulp.watch('./src/js/**/*.js', js);
+  gulp.watch('./src/scripts/**/*.js', js);
   gulp.watch([
     './src/img/**/*',
     './src/fonts/**/*',
