@@ -1,5 +1,5 @@
 {
-  "name": "template-gulp",
+  "name": "gulp",
   "version": "1.0.0",
   "description": "Описание",
   "scripts": {
@@ -10,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
   "homepage": "",
   "devDependencies": {
     "@babel/core": "^7.17.8",
